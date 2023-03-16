@@ -1,0 +1,27 @@
+.styling{
+    background-color:white;
+    border-radius:40px;
+    border-color:purple;
+    border-width:4px;
+    border-style:inset;
+    width:190px;
+    padding:5px;
+}
+
+#camera{
+    border-style:dotted;
+    border-radius:20px;
+    border-color:blue;
+    border-width:2px;
+    width:300px;
+    height:310px;
+}
+
+#snapshot{
+    border-style:dotted;
+    border-radius:20px;
+    border-color:rgb(255, 8, 0);
+    border-width:2px;
+    width:300px;
+    height:310px;
+}
